@@ -23,10 +23,10 @@ Example command: python dummy_grasp_routine_wrapper.py --obj_path ./sample_raw_m
 Machine Learning Analysis:
 The data collected from the three gripper experiments are combined to perform a machine learning analysis. A Random Forest algorithm is employed to predict the best-suited gripper for a specific object.
 
-Credits
+Credits: 
 The dummy_grasp_routine was initially taken from another GitHub repository. Although modifications were made for this project, we'd like to give credits to the original repository (https://github.com/jaks19/parallel_gripper_simulation_pybullet.git).
 
-Contributing
+Contributing : 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 License
