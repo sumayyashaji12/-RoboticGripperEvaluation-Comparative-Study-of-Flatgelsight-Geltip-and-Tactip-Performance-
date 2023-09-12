@@ -4,7 +4,7 @@ This repository consists of experiments for three different grippers:
 - FlatGelSight Evaluation
 - TacTip Evaluation
 - GelTip Evaluation
-- 
+  
 Each folder contains:
 
 Gripper mesh and URDF files
